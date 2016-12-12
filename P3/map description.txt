@@ -1,0 +1,11 @@
+Data Wrangling with MongoDB
+
+
+For the 3rd project in the Data Analyst Course from Udacity, I am tasked to assess the quality of the data and prepare it for any further analysis. The data i will be working on is provided by OpenStreetMap (Open source geographic data for the world), my area of interest was to explore the city of Toronto. OpenStreetMap has metro extract for Toronto readily available to download but this version of data compromises on the boundary of the city, there is a lot more data correspodning to the surroundings of the city which should not have been there. For this reason,i have custom selected and downloaded the data for the area that most likely resembles the complete city. 
+
+
+Link to the data:  http://overpass-api.de/api/map?bbox=-79.5795,43.5943,-79.1537,43.8365
+
+Reason for choosing Toronto: 
+
+Toronto has always been a favorite city of mine for various reasons, of which the prominent one’s being the time!!! The time I have spent there with my family and friends is unparalleled. I wasexploringthecity’stopnotchoneofakindarchitecture,restaurants,bars,galleries,buildings and parks. City boosts a very vibrant vibe, there is something for everyone to really enjoy here. Toronto is Canada’s most populous city known for its diverse culture and is considered as very strong econimical hub. 
